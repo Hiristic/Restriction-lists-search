@@ -31,7 +31,9 @@
     "intrinsic_propertyies_referred_to_in_article_57",
     "member_state_ms_contact_details",
     "reason_for_inclusion",
-    "status"
+    "status",
+    "priority_level",
+    "criteria"
   ],
   "sortFields": [
     "substance_name",
