@@ -9,6 +9,10 @@
     "date_of_inclusion",
     "latest_application_date",
     "description",
+    "reason_for_inclusion",
+    "status",
+    "priority_level",
+    "criteria",
     "conditions",
     "initial_grounds_for_concern",
     "conclusion_document",
@@ -29,11 +33,7 @@
     "dislist_corap_diss_concern",
     "sunset_date",
     "intrinsic_propertyies_referred_to_in_article_57",
-    "member_state_ms_contact_details",
-    "reason_for_inclusion",
-    "status",
-    "priority_level",
-    "criteria"
+    "member_state_ms_contact_details"
   ],
   "sortFields": [
     "substance_name",
@@ -43,6 +43,7 @@
     "list_name",
     "cas_no",
     "ec_no",
+    "criteria",
     "reason_for_inclusion"
   ],
   "titleField": "substance_name"
