@@ -41,9 +41,9 @@
   ],
   "facets": [
     "list_name",
+    "priority_level",
     "cas_no",
     "ec_no",
-    "priority_level",
     "criteria",
     "reason_for_inclusion"
   ],
